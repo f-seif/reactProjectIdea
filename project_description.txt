@@ -1,0 +1,9 @@
+Project: Discover latest most popular 20 movies
+features: 
+- filter movies by genre
+- filter movies by name
+- sort movies by release date or alphabetically
+- filter movies by average score
+- ability to suggest new movies
+- Data api is fetched from TMDB
+- dependencies: use of router, redux toolkit, axios and bootstrap
