@@ -7,3 +7,5 @@ features:
 - ability to suggest new movies
 - Data api is fetched from TMDB
 - dependencies: use of router, redux toolkit, axios and bootstrap
+Project link:
+https://creative-sprinkles-f8bae3.netlify.app/
